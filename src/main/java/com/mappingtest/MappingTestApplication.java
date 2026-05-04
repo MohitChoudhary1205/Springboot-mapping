@@ -1,0 +1,25 @@
+package com.mappingtest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+
+@SpringBootApplication
+public class MappingTestApplication {
+	
+	public static void main(String[] args) {
+		SpringApplication.run(MappingTestApplication.class, args);
+	
+	
+	
+		
+		
+		/*
+		 * System.out.println(q1.getQname()); System.out.println(q2);
+		 * System.out.println(q3);
+		 */
+		
+	}
+
+}
